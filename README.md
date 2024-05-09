@@ -6,6 +6,12 @@ Sure, here's a detailed `README.md` file for your application:
 
 This is a simple QR Code Generator application built with React for the frontend and Node.js/Express for the backend.
 
+# Participants
+
+- Rakesh Budugu
+- Sibhasri Jothi
+- Prasanna Avula
+
 ## Features
 
 - Generate QR code from a URL
