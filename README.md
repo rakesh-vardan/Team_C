@@ -12,6 +12,23 @@ This is a simple QR Code Generator application built with React for the frontend
 - Sibhasri Jothi
 - Prasanna Avula
 
+# What this brings to the table?
+Here are some advantages of the current application compared to a previous solution:
+
+- **Modern Tech Stack**: The application uses a modern tech stack including React for the frontend and Node.js/Express for the backend. This makes the application more maintainable and scalable compared to older technologies.
+
+- **Customizable QR Codes**: The application allows for the embedding of a logo within the QR code, which can make the QR code more recognizable and branded.
+
+- **Dynamic Logo Fetching**: The application can automatically fetch and use the logo from a website, making the process more dynamic and user-friendly.
+
+- **Downloadable QR Codes**: Users can download the generated QR code directly from the application, which can be a convenient feature not present in all QR code generators.
+
+- **Scalable Architecture**: The application is designed with a scalable architecture, allowing for potential future enhancements and features.
+
+- **User-Friendly Interface**: The application has a simple and user-friendly interface, making it easy for users to generate QR codes.
+
+- **CORS Enabled**: The application is CORS enabled, allowing it to accept requests from different origins, which can be useful in a microservices architecture or when the frontend and backend are hosted on different domains.
+
 ## Features
 
 - Generate QR code from a URL
