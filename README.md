@@ -9,7 +9,7 @@ This is a simple QR Code Generator application built with React for the frontend
 # Participants
 
 - Rakesh Budugu
-- Sibhasri Jothi
+- Subhasri Jothi
 - Prasanna Avula
 
 # What this brings to the table?
